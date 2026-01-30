@@ -1,5 +1,5 @@
  Survival Game (Unity / C#)
 
-How TO Play
+How To Play:
 Type different keys to cast spells 
 
