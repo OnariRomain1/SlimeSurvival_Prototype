@@ -1,1 +1,5 @@
-Unity Version: 2022.3.20f1
+ Survival Game (Unity / C#)
+
+How TO Play
+Type different keys to cast spells 
+
